@@ -1,4 +1,3 @@
-# Stopwatch  
-### Made with React + Vite  
+Stopwatch  
 
-- [Website](https://swiftsaa.github.io/react-stopwatch/)
+[Website](https://swiftsaa.github.io/react-stopwatch/)
